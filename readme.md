@@ -1,3 +1,3 @@
 # CSS Tricks Sandbox
 
-* Continue at: Slide In Image Boxes (https://css-tricks.com/snippets/css/)
+* Continue at: https://css-tricks.com/snippets/css/transparent-inside-border/
